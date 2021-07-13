@@ -18,6 +18,12 @@ h3{
     margin-block-start: 1.17em;
     margin-inline-end: 1.17em;
 }
+img{
+    height: 100px;
+    width: auto;
+    margin-top: 20px;
+    transform: rotate(105deg);
+}
 .row a{
     font-size:15px;
     text-decoration: none;
